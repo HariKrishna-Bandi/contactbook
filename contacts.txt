@@ -1,0 +1,5 @@
+Hari,8121350828,hari@gmail.com,Hebbal
+praveen,8524107415,pr@gmail.com,summana halli
+raju,789485871,raju@gmail.com,tirupati
+leela,9850201215,leels@gmail.com,jalahalli
+Jovil,9704258216,jovil@gmail.com,kochi

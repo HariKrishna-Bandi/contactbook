@@ -1,0 +1,21 @@
+This is a breif explanation about my code.
+===========================================
+=>This program allows us to create a contact book to store contacts in contacts.txt file.
+=>I have created a contact class to store name, phone number, mail, address of a person.
+=>And then I have created a ContactManager class to create functionality.
+=>In this contact manager class I created load_contacts function which load the contacts existed in the file.
+=>save_contacts function allows us to save a new contact from the add_contacts funtion to contacts.txt file.
+=>add_contacts function is used for adding a new contact.
+=>view_all_contacts function is helpful to view all the existing contacts in the contact book.
+=>finally search_contact and delete_contact functions are used to search and
+delete a contact from contacts.txt file respectively.
+=>And Now I have used main() function outside of the class which helps to take user-input
+and to use the user-defined commands to show the output.
+
+challenges I have encountered
+==============================
+=>I have written the code with minor errors and resolved it after finding it soon.
+=>But the real challenges I have faced during the setup of functionality part.
+=>when I wanted to create one functionality the other functionality keeps stopped working
+=>And finally I learnt from mistakes and recovered this code without any mistakes.
+=>This current code is working well with all the functionalities.
